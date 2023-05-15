@@ -1,0 +1,36 @@
+.colorencabezado{
+    color: crimson;
+}
+.textoencabezado1{
+    text-align: center;
+
+    
+}
+.textoencabezado2{
+    text-align: center;
+    margin-left: 500px;
+    
+}
+.textoencabezado3{
+    text-align: center;
+    margin-left: 1000px;
+    
+}
+
+
+
+th{
+    border: 4px solid black;
+}
+
+td{
+    border: 1px solid black;
+}
+.tablacentrada{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #bcd3f2;
+
+}
